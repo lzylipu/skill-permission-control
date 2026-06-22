@@ -1,6 +1,17 @@
 ---
 name: permission-control
-description: 权限控制规范 - 未经用户明确授权禁止使用 root/sudo 权限。仅 VPN 连接命令可自动执行，其他需用户确认。
+description: "Permission control - block sudo/root without explicit user authorization, VPN commands whitelisted"
+version: 1.0.0
+author: lzylipu
+license: MIT
+platforms: [linux]
+metadata:
+  hermes:
+    tags: [permission, sudo, security, vpn, 权限, 安全]
+    related_skills: [vpn-connect, openwrt-redial, wake-pc]
+    homepage: https://github.com/lzylipu/openclaw-skill-permission-control
+    category: personal
+    skill_type: constraint
 ---
 
 # 权限控制规范
