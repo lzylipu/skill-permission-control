@@ -9,7 +9,7 @@ metadata:
   hermes:
     tags: [permission, sudo, security, vpn, 权限, 安全]
     related_skills: [vpn-connect, openwrt-redial, wake-pc]
-    homepage: https://github.com/lzylipu/openclaw-skill-permission-control
+    homepage: https://github.com/lzylipu/skill-permission-control
     category: personal
     skill_type: constraint
 ---
