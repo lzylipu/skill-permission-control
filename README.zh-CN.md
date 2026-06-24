@@ -1,6 +1,6 @@
 # 权限控制技能
 
-**[English](./README.md) | [中文](./README.zh-CN.md)**
+**[English](./README.md) | 中文**
 
 执行 sudo/root 命令前强制要求用户明确授权。仅 VPN 相关命令自动放行。
 
