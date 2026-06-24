@@ -1,6 +1,6 @@
 # Permission Control Skill
 
-**[English](./README.md) | [中文](./README.zh-CN.md)**
+**English | [中文](./README.zh-CN.md)**
 
 Enforce explicit user authorization before executing sudo/root commands. Only VPN-related commands are auto-allowed.
 
