@@ -17,4 +17,4 @@ Invalid: hmm, oh, whatever, silence
 
 ## License
 
-MIT
+MIT. See [LICENSE](./LICENSE).
